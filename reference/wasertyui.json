@@ -151,7 +151,7 @@
         "operationId": "post-user",
         "responses": {
           "200": {
-            "description": "User Created",
+            "description": "User Createdghui",
             "content": {
               "application/json": {
                 "schema": {
