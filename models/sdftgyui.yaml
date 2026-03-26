@@ -4,6 +4,10 @@ x-stoplight:
 x-tags:
   - '1234'
 type: object
+x-internal: true
+description: |
+  SDFGH
+  EFSDFRTGH
 required:
   - W
   - EDFRG
@@ -21,7 +25,7 @@ properties:
       ERGH
       GF
   SWQEDFRTG:
-    $ref: 'stoplight://resources/overrides/hmiSGSp0Dpw'
+    $ref: 'stoplight://resources/overrides/fJohZP6E9EA'
     x-stoplight:
       id: t08d05y5exidd
   W:
@@ -44,7 +48,3 @@ properties:
     type: string
     x-stoplight:
       id: 4cgoaqu4dr9yq
-x-internal: true
-description: |
-  SDFGH
-  EFSDFRTGH
