@@ -4,7 +4,7 @@ x-stoplight:
 x-tags:
   - '1234'
 type: object
-x-internal: true
+x-internal: false
 description: |
   SDFGH
   EFSDFRTGH
