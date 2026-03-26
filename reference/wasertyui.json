@@ -157,7 +157,16 @@
                 "schema": {
                   "$ref": "stoplight://resources/overrides/AZnJyGvCOCA"
                 },
-                "examples": {}
+                "examples": {
+                  "Example 1": {
+                    "value": {
+                      "id": "string",
+                      "wsdefr": "string",
+                      "aswdefrq": "string",
+                      "wsde": "string"
+                    }
+                  }
+                }
               }
             }
           },
