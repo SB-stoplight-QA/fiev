@@ -17,3 +17,15 @@ properties:
     type: string
     x-stoplight:
       id: 22xtgh7siyl1y
+  wsdefr:
+    type: string
+    x-stoplight:
+      id: g630ubmlrud7k
+  aswdefrq:
+    type: string
+    x-stoplight:
+      id: 693h7klfnky5z
+  wsde:
+    type: string
+    x-stoplight:
+      id: 3tyhheijvnbed
