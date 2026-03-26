@@ -160,10 +160,13 @@
                 "examples": {
                   "Example 1": {
                     "value": {
-                      "id": "string",
-                      "wsdefr": "string",
-                      "aswdefrq": "string",
-                      "wsde": "string"
+                      "id": 12,
+                      "firstName": "Bob",
+                      "lastName": "Fellow",
+                      "email": "bob.fellow@gmail.com",
+                      "dateOfBirth": "1996-08-24",
+                      "emailVerified": false,
+                      "createDate": "2020-11-18"
                     }
                   }
                 }
