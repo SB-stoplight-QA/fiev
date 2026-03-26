@@ -1,0 +1,11 @@
+title: sdftgyui
+x-stoplight:
+  id: gmmv1wuxgs9hh
+x-tags:
+  - '1234'
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: v20s8m9eirr1f
