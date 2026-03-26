@@ -155,7 +155,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/User"
+                  "$ref": "stoplight://resources/overrides/hmiSGSp0Dpw"
                 },
                 "examples": {
                   "New User Bob Fellow": {
@@ -306,6 +306,64 @@
         "x-stoplight": {
           "id": "fyf1qu2h2csg6"
         }
+      },
+      "QWERFGTH": {
+        "title": "QWERFGTH",
+        "x-stoplight": {
+          "id": "mu2born1plkyw"
+        },
+        "type": "object",
+        "required": [
+          "WDEFRT",
+          "WE"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "uokjhfcllqm4e"
+            }
+          },
+          "QSWDEFRVG": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "zmef2aaraaygc"
+            }
+          },
+          "WDEFRT": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "nujubzi879pak"
+            }
+          },
+          "DSFG": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "9b4hfvjtqyhao"
+            },
+            "description": "EDWFRGTEFRGT"
+          },
+          "WE": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "s3g5wqzpj11he"
+            }
+          },
+          "RT": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "s0niuiamt2p1y"
+            }
+          },
+          "EWFRTG": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "tpcfdfxn4tgut"
+            }
+          }
+        },
+        "description": "DEFWRGTHY",
+        "x-internal": true
       }
     }
   }

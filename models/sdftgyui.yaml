@@ -4,8 +4,47 @@ x-stoplight:
 x-tags:
   - '1234'
 type: object
+required:
+  - W
+  - EDFRG
+  - FERGB
 properties:
   id:
     type: string
     x-stoplight:
       id: v20s8m9eirr1f
+    description: |-
+      SXDCFVGF
+
+      DSERFTG
+      F
+      ERGH
+      GF
+  SWQEDFRTG:
+    $ref: 'stoplight://resources/overrides/hmiSGSp0Dpw'
+    x-stoplight:
+      id: t08d05y5exidd
+  W:
+    type: string
+    x-stoplight:
+      id: jaxyexf0oh22s
+  EDFRG:
+    type: string
+    x-stoplight:
+      id: re6t11rhd5oft
+  DSERFDTFG:
+    $ref: ./sdftgyui.yaml
+    x-stoplight:
+      id: mc7g7f7mbuh5b
+  FERGB:
+    type: string
+    x-stoplight:
+      id: wcpx68moymwo3
+  FERG:
+    type: string
+    x-stoplight:
+      id: 4cgoaqu4dr9yq
+x-internal: true
+description: |
+  SDFGH
+  EFSDFRTGH
