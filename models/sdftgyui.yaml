@@ -24,10 +24,6 @@ properties:
       F
       ERGH
       GF
-  SWQEDFRTG:
-    $ref: 'stoplight://resources/overrides/hmiSGSp0Dpw'
-    x-stoplight:
-      id: t08d05y5exidd
   W:
     type: string
     x-stoplight:
@@ -36,10 +32,6 @@ properties:
     type: string
     x-stoplight:
       id: re6t11rhd5oft
-  DSERFDTFG:
-    $ref: ./sdftgyui.yaml
-    x-stoplight:
-      id: mc7g7f7mbuh5b
   FERGB:
     type: string
     x-stoplight:
