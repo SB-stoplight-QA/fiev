@@ -155,7 +155,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "stoplight://resources/overrides/hmiSGSp0Dpw"
+                  "$ref": "stoplight://resources/overrides/AZnJyGvCOCA"
                 },
                 "examples": {
                   "New User Bob Fellow": {
